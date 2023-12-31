@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613755543111",
+    "project_id": "fly-reservation-7fef6",
+    "storage_bucket": "fly-reservation-7fef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613755543111:android:fd8e2050af7a01d38b9b62",
+        "android_client_info": {
+          "package_name": "com.example.fly_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1lEngcliFx7xOtO5JhcbI4eyqNJrDWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
